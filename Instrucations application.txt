@@ -1,0 +1,16 @@
+Anaconda prompt>>
+cd Desktop
+cd BIA
+cd 'Capstone pro"
+cd "Streamlit application"
+>>
+conda activate streamlit_env
+>> streamlit run app.py
+ 
+
+Test values-------------------
+C  R    F     M
+0  15   22    12425
+1  44   3.6   1349
+2  7    82    127188
+3  248  1.5   476
